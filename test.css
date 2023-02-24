@@ -1,0 +1,33 @@
+body{
+    background-image: url(images/blue.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.form {
+    background-color: aliceblue;
+    border: 1px solid red;
+    width: 100%;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 20px 50px 20px 20px;
+    float: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.content{
+    color: blue;
+}
+.input{
+    width: 100%;
+    padding: 5px 0px 5px 10px;
+}
